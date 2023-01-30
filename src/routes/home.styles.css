@@ -1,4 +1,5 @@
 .answers {
     display: grid;
     grid-template-columns: 1fr;
+    overflow-y: scroll;
 }

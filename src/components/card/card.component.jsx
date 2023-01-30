@@ -18,14 +18,19 @@ const Card = ({properties, correcta}) => {
               }, "250");
         }
     }
+    const imagenExiste = () => {
+        if(imagen !== undefined){
+            return (
+                <div className='image-container'>
+                    <img src={`${imagen}`} alt="no hay imagen"/>
+                </div>
+            )
+        }
+    }
     return(
         <div className="card-container" onClick={onClickHandler}>
             <p>{respuesta}</p>
-            <div className='image-container'>
-                <img src={`${imagen}`} alt="no hay imagen"/>
-            </div>
-            
-            
+            {imagenExiste()}
         </div>
     );
 }

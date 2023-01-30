@@ -11,8 +11,6 @@ const CardList = ({quest, questions, cantidad}) => {
             let respuestaIncorrecta = questions[getRandomInt(cantidad)];
             if(quest.pregunta !== respuestaIncorrecta.pregunta){
                 respuestas.push(respuestaIncorrecta);
-            }else{
-                i--;
             }
         }
         const shuffledArray = respuestas.sort((a, b) => 0.5 - Math.random());

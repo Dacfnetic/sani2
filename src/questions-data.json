@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿En cúales tipos de sistemas básicos se puede clasificar un alcantarillado?",
+        "respuesta": "Sistema sanitario, sistema separativo y sistema combinado"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cúal es la definición de sistema sanitario?",
+        "respuesta": "Consiste en una tubería para recolección y conducción de las aguas negras, quedando de esa forma excluída los caudales de aguas de lluvia provenientes de calles y techos y otras superficies."
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cúal es la definición de sistema separativo?",
+        "respuesta": "Consiste en dos lineas de tuberías, una para las aguas negras y otra para las aguas de lluvia, recolectadas y transportadas independientemente."
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cúal es una condición primordial para utilizar un sistema de drenaje separativo?",
+        "respuesta": "Para proyectar un alcantarillado de este tipo es necesario que también existan drenajes separativos en el interior de las edificaciones a servir."
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cúal es la definición de sistema combinado?",
+        "respuesta": "Consiste en una sola línea para la recolección y transportación de las agus de lluvias y las aguas negras."
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Cúales son los factores a tomar en cuenta al elegir un tipo de sistema de alcantarillado?",
+        "respuesta": "Dependerá de un estudio minucioso de factores, tanto topográficos como funcionales, pero quizá el más importante es el económico."
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Qué tipo de datos debe tomarse en cuenta para comenzar la planificación y el diseño de un alcantarillado?",
+        "respuesta": "Ubicación, clima, características de la población, condiciones sanitarios y sistema de abasto de agua."
+    },
+    {
+        "id": 8,
+        "pregunta": "¿En qué subtemas se pueden dividir los datos de ubicación necesarios para planificar y diseñar un alcantarillado?",
+        "respuesta": "ubicación geográfica, ubicación política, vías de comunicación y sus distancias con los centros de mayor competencia."
+    },
+    {
+        "id": 9,
+        "pregunta": "¿En qué subtemas se pueden dividir los datos de clima necesarios para planificar y diseñar un alcantarillado?",
+        "respuesta": "Estaciones, precipitación pluvial, vientos, nubosidad, temperatura máxima, mínima y media, humedad relativa y evaporación."
+    },
+    {
+        "id": 10,
+        "pregunta": "¿En qué subtemas se pueden dividir los datos de las características de la población necesarios para planificar y diseñar un alcantarillado?",
+        "respuesta": "Número de habitantes actuales y según censos anteriores, número de viviendas, actividades de la población, industrias existentes, características y volúmenes de sus aguas servidas, instituciones, hospitales, escuelas, cuarteles, etc. materiales locales de construcción y sus productos, mano de obra disponible y salarios."
+    },
+    {
+        "id": 11,
+        "pregunta": "¿En qué subtemas se pueden dividir los datos de las condiciones sanitarias necesarios para planificar y diseñar un alcantarillado?",
+        "respuesta": "Sistema de abastecimiento de agua, disposición de excretas, sistema de recolección y disposición de basura, tipo y condiciones de vivienda, cualquier otro aspecto relacionado con las condiciones sanitarias de la población"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿En qué subtemas se pueden dividir los datos del sistema de abasto de agua necesarios para planificar y diseñar un alcantarillado?",
+        "respuesta": "Fuente de abastecimiento, sistema de conducción, tipo de tratamiento que recibe el agua, calles en la que pasa la red de distribución, número de servicios de agua instalados, dotación diaria por habitante."
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Al hacer un levantamiento toográfico del área a drenar, que aspectos son necesarios a considerar?",
+        "respuesta": "Se debe tomar en cuenta el área a futuro donde se construirá el alcantarillado, debe aparecer la localización exacta de las calles, edificios, escuelas, carreteras, ferrocarriles, ríos, etc. Además de incluir la posible localización de la planta de tratamiento de aguas negras o el cuerpo receptor del desfogue del drenaje."
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuáles son los métodos más usados en los levantamientos topográficos para alcantarillados?",
+        "respuesta": "El de conservación del azimut, deflexiones, rumbos, distancias."
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuáles son los métodos quedan terminantemente prohibidos en los levantamientos topográficos para alcantarillados?",
+        "respuesta": "levantamientos taquimétricos, salvo cuando se trate de detalles secundarios, tales como terrenos fuera del perímetro urbano."
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Refente a la nivelación del levantamiento qué aspectos son de suma importancia?",
+        "respuesta": "Toda nivelación debe estar referida a un banco de marca, proporcionada por el IGN, la nivelaci+on debe ser hecha sobre el eje de la calle a una distancia de 20 m o menos cuando los accidentes del terreno no obligen, en todos los cruces de calles, en todas las presiones y salientes del terreno, Hay que tomar con especial atención la obtención de cotas de piso de terrenos o construcciones, cuando estas est+en por debajo de la cota de la rasante de la calle del frente."
+    },
+    {
+        "id": 17,
+        "pregunta": "¿En qué escala se efectúan los planos topográficos?",
+        "respuesta": "1:2000 o 1:2500, pero cuando el área es grande se puede preparar un mapa patrón a una escala más pequeña y seccionarlo en varios pequeños de escala mayor."
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Qué elementos se deben mostrar en los planos topográficos?",
+        "respuesta": "Curvas de nivel, las cuales se harán de preferencia a cada metro, indicando a su vez la elevación, por lo menos, en la de cada cinco metros."
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Es necesario construir los ramales que serviran a áreas futuras?",
+        "respuesta": "No, todo sistema de alcantarillado deberá ser proyectado para prestar servicio a todas las edificaciones existentes así como las futuras, pero los ramales a servir estas áreas futuras no se tienen que construir sino hasta que sean necesarios"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿El drenaje por gravedad o bombeado?",
+        "respuesta": "De prefencia se diseñaran las redes de desagüe para que su flujo sea por gravedad, el bombeo es muy costoso; además, el material grueso obstruye las bombas. Cuando la topográfia lo obligue hay que hacer uso de ello."
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué factores determinan el modelo de alcantarillado?",
+        "respuesta": "tipo de sistema (ya sea combinado, separativo o sanitario), topografía, hidrología y geología del área drenada, localización y naturaleza de la obra de tratamiento, desfogue según localización de la fuente receptora."
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuáles son los modelos típicos de alcantarillado?",
+        "respuesta": "Modelo perpendicular, modelo de abanico, modelo radial"
+    },
+    {
+        "id": 23,
+        "pregunta": "¿En qué consiste un modelo perpendicular de alcantarillado?",
+        "respuesta": "Este se usa cuando una población esté asentada a lo largo de una corriente, con el terreno inclinado suavemente hacia ella. Por lo general, se usa este modelo para drenaje pluvial y combinado, pero para este último no es muy recomendado ya que general el proceso de polución en las aguas que bañan las playas imediatas a la comunidad aguas abajo, otro inconveniente de este tipó de modelo es que hace dificultoso y costoso el tratamiento de las aguas negras debido a sus múltiples defoogues.",
+        "imagen": "https://i.ibb.co/SN4pmWG/drenaje-Perpendicular.png"
+    },
+    {
+        "id": 24,
+        "pregunta": "¿En qué consiste un modelo en abanico de alcantarillado?",
+        "respuesta": "Este modelo concentra los flujos desde las orillas de la comunidad hacia su interior y origina una sola descarga. Sin embargo, sus colectores principales cruzan con frecuencia los distritos congestionados, y es díficil aumentar la capacidad del sistema, por ejemplo, mediante la construcción de colectores de alivo, cuando los suburbios crezcan y aporten sus cauales",
+        "imagen": "https://i.ibb.co/L6ZCXV0/drenaje-Abanico.png"
+    },
+    {
+        "id": 25,
+        "pregunta": "¿En qué consiste un modelo radial de alcantarillado?",
+        "respuesta": "Las aguas negras fluyen hacia afuera, desde el corazión de la ciudad hacia sus orillas. Las líneas son relativamente pequeñas y cortas, pero pueden multiplicarse el número de obras de tratamiento, aumentando así su costo.",
+        "imagen": "https://i.ibb.co/j3bKMKD/drenaje-Radial.png"
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Mencione un principio hidráulico en el cálculo de desagües?",
+        "respuesta": "La mayor parte de los alcantarillados se proyectan como canalas abiertos, en los cuales el agua circula por acción de la gravedad y sin nunguna presión, pues la superficie libre del líquido está en contacto con la atmósfera.",
+        "imagen": "https://i.ibb.co/p3vThkf/seccion-De-Drenaje.png"
+    },
+    {
+        "id": 27,
+        "pregunta": "¿En que tipo de elementos el drenaje no se comporta como un canal abierto?",
+        "respuesta": "Sifones invertidos, y las tuberías de impulsión de las estaciones elevadas, que trabajan siempre a presión. Puede suceder que el canal esté cerrado, que eventualmente se produzca alguna presión debida a la formación de gases o en el caso que en las alcatarillas de agus de lluvia sea superada la capacidad para la que fueron diseñadas.",
+        "imagen": "https://i.ibb.co/p3vThkf/seccion-De-Drenaje.png"
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué tipo de régimen de flujo se considera en el cálculo de alcantarillados?",
+        "respuesta": "Regímen permanente uniforme, esto es, flujo permanente en el cual la velocidad media permanece constante, en cualquier sección, por el efecto de la gravedad y con una velocidad tal que la carga disponible, compense el rozamiento."
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Cuáles son las fórmulas para caudal y radio hidráulico?",
+        "respuesta": "Estas:",
+        "imagen": "https://i.ibb.co/1zqCpw1/f-Cauldaly-RH.png"
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es la fórmula de chezy?",
+        "respuesta": "Esta:",
+        "imagen": "https://i.ibb.co/9hS9BwF/chezy.png"
+    },
+    {
+        "id": 31,
+        "pregunta": "¿Cúal es la fórmula de Kutter para calcular la constance C de la fómula de chezy?",
+        "respuesta": "Esta:",
+        "imagen": "https://i.ibb.co/ZKvHtjc/kutter.png"
+    },
+    {
+        "id": 32,
+        "pregunta": "¿Cúal es la fórmula de Manning para calcular la constance C de la fómula de chezy?",
+        "respuesta": "Esta:",
+        "imagen": "https://i.ibb.co/2PykdQ4/manning.png"
+    },
+    {
+        "id": 33,
+        "pregunta": "¿Comó se ve la fórmula de chezy sustituida con los valores C de manning?",
+        "respuesta": "Así:",
+        "imagen": "https://i.ibb.co/s6jG1wV/chezy-manning.png"
+    },
+    {
+        "id": 34,
+        "pregunta": "¿Cuáles son los valores de rugosidad n comunes?",
+        "respuesta": "Estos:",
+        "imagen": "https://i.ibb.co/BrFHq39/n-Rugosidad.png"
+    },
+    {
+        "id": 35,
+        "pregunta": "¿Cómo es la fórmula de Manning - Strickler para le cálculo del coeficiente C?",
+        "respuesta": "Se sustituye el valor 1/n de manning por la constante K y toma otros valores:",
+        "imagen": "https://i.ibb.co/jMMYmf4/manning-strickler.png"
+    },
+    {
+        "id": 36,
+        "pregunta": "¿Cuál fórmula de todas es la más conveniente para el cálculo de velocidad y caudal de un alcantarillado?",
+        "respuesta": "Por rapidez, la fórmula de manning-chezy, que simplifica el proceso de cálculo.",
+        "imagen": "https://i.ibb.co/s6jG1wV/chezy-manning.png"
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Cuál es una restricción de usos de nomogramas para el cálculo de velocidad y caudal de un alcantarillado?",
+        "respuesta": "Es necesario conocer como mínimo dos datos, los cuales se unen mediante una línea recta, la cual a su vez intercepta el eje donde se encuentra el dato que se desea averiguar."
+    },
+    {
+        "id": 38,
+        "pregunta": "¿Cuál es una restricción del uso de fórmulas como la de chezy-manning para cálculo de velocidad y caudal de un alcantarillado?",
+        "respuesta": "Solo se pueden usar cuando se desea tener datos de tuberías totalmente llenas, esto aplica también para nomogramas.",
+        "imagen": "https://i.ibb.co/s6jG1wV/chezy-manning.png"
+    },
+    {
+        "id": 39,
+        "pregunta": "¿Porqué lo más común es que las tuberías de drenaje trabajen como secciones parcialmente llenas?",
+        "respuesta": "Ya que el gasto nunca es constante y esto incide directamente con una variación de la altura del flujo, que asu vez hace variar el área transversal del líquido y la velocidad de este.",
+        "imagen": "https://i.ibb.co/B4TdGDJ/seccion-Parcialmente-Llena.png"
+    },
+    {
+        "id": 40,
+        "pregunta": "¿Debido a los cálculos laboriosos que alternativas existen a las fórmulas para el cálculo de tuberías de sección parcialmente llena?",
+        "respuesta": "El gráfico de relaciones hidráulicas.",
+        "imagen": "https://i.ibb.co/bbKmrD2/relaciones-Hidraulicas.png"
+    },
+    {
+        "id": 41,
+        "pregunta": "¿Cúal es el procedimiento para utilizar el gráfico de relaciones hidráulicaas?",
+        "respuesta": "El gráfico de relaciones hidráulicas.",
+        "imagen": "https://i.ibb.co/YX6ydSG/procedimiento-Relaciones-Hidraulicas.png"
+    },
+    {
+        "id": 42,
+        "pregunta": "¿A qué profundidad de flujo ocurre la velocidad máxima en la tubería?",
+        "respuesta": "Ocurre entre 0.75 D a 0.80 D",
+        "imagen": "https://i.ibb.co/bbKmrD2/relaciones-Hidraulicas.png"
+    },
+    {
+        "id": 43,
+        "pregunta": "¿Cuál es la velocidad mínima del flujo en alcantarillas de aguas negras?",
+        "respuesta": "0.60 m/s, No siempre es posible obtener esa velocidad, debido a que existen ramales que sirven a sólo unas cuantas casas y producen flujos bastante bajos, en tales casos, se proporcionará una pendiente que dé una velocidad mínima de 0.60 m/s a la descarga máxima estimada, y a una velocidad no menos de 0.4 m/s durante escurrimientos bajos."
+    },
+    {
+        "id": 44,
+        "pregunta": "¿Cuál es la velocidad mínima del flujo en alcantarillas de aguas de tormenta?",
+        "respuesta": "0.60 m/s. Cuando se diseñe alcantarillas combinadas, hay que prever que en el tiempo de sequía sólo circulará el caudal de las aguas negras, por lo tanto, hay que chequear la velocidad del gasto negro, que será la mínima para el diseño."
+    },
+    {
+        "id": 45,
+        "pregunta": "¿Cuál es la velocidad máxima del flujo en alcantarillasa?",
+        "respuesta": "3.00 m/s, debido a que los sólidos en suspensión hacen un efecto abrasivo a la tubería."
+    }
+]

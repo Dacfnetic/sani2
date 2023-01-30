@@ -17,7 +17,7 @@ const Card = ({properties, correcta}) => {
         <div className="card-container" onClick={onClickHandler}>
             <p>{respuesta}</p>
             <div className='image-container'>
-                <img src={`${imagen}`} />
+                <img src={`${imagen}`} alt="no hay imagen"/>
             </div>
             
             

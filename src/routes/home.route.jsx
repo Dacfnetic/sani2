@@ -1,7 +1,7 @@
 import CardList from "../components/card-list/card-list.component";
 
 import './home.styles.css';
-import { useEffect, useContext } from 'react';
+import { useContext } from 'react';
 import { QuestionContext } from '../contexts/question.context.jsx'
 const Home = () => {
     const { currentQuestion, questions } = useContext(QuestionContext);

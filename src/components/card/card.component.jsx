@@ -4,13 +4,18 @@ import { QuestionContext } from '../../contexts/question.context';
 const Card = ({properties, correcta}) => {
     const { getQuestions } = useContext(QuestionContext);
     const {pregunta, respuesta, imagen} = properties;
-    console.log(imagen);
     const onClickHandler = (event) => {
         if(correcta.pregunta === pregunta){
             event.target.style='background-color: green'
-            getQuestions();
+            setTimeout(() => {
+                event.target.style='background-color: rgb(239, 252, 255);';
+                getQuestions();
+              }, "250");
         }else{
             event.target.style='background-color: red'
+            setTimeout(() => {
+                event.target.style='background-color: rgb(239, 252, 255);';
+              }, "250");
         }
     }
     return(

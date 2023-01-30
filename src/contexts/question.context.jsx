@@ -16,9 +16,7 @@ export const QuestionProvider = ({children}) => {
     const [currentQuestion, setCurrentQuestion] = useState(QUESTIONS[getRandomInt(QUESTIONS.length)]); 
     const questions = QUESTIONS;
     const getQuestions = () => {
-        setTimeout(() => {
-            setCurrentQuestion(QUESTIONS[getRandomInt(QUESTIONS.length)]);
-          }, "250")
+        setCurrentQuestion(QUESTIONS[getRandomInt(QUESTIONS.length)]);
     }
     const value = { currentQuestion, setCurrentQuestion, questions, getQuestions};
     return <QuestionContext.Provider value={value}>{children}</QuestionContext.Provider>; 
